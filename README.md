@@ -6,6 +6,7 @@
 | .__/|_|  |_|_| |_|\__\___|_|        \__\___/ \___/|_|_|\_\_|\__|
 |_|
 ```
+This repo is a collection of different powershell snippets, which I use for easing my time with printers.
 
 ## What you need for the actual installation
 - All needed files/directory are:
